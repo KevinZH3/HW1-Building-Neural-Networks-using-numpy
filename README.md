@@ -57,7 +57,7 @@
 
 ### 超参数网格搜索
 
-* 运行 `param_select.py`，即可进行超参数的网格搜索
+* 运行 `param_select.py`，即可进行超参数的网格搜索（该操作耗时较久）
 
   ```powershell
   python param_select.py
