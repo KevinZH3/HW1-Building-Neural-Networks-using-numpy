@@ -1,0 +1,1 @@
+[{"dim_in": 784, "dim_out": 128, "act_func": "relu"}, {"dim_in": 128, "dim_out": 32, "act_func": "relu"}, {"dim_in": 32, "dim_out": 10, "act_func": "softmax"}]
